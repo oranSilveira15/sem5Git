@@ -1,0 +1,22 @@
+Git Lessons 4 June 2020
+git clone <url>
+git status
+nano README.md
+git add .
+git commit -m " "
+git push
+nanp .gitignore
+git add .
+git commit -m " "
+git push
+git branch //Check the branch you are in(shown with *)
+git branch feature1 //Creatig a branch
+git checkout feature1 //Changing the current branch you are in
+nano Lesson1.txt
+git add .
+git commit -m " "
+git push -u origin feature1
+
+<Pull Request>
+<Merge into Master Branch>
+
